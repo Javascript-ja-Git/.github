@@ -69,6 +69,12 @@ Kursuse läbinud õpilane:
 
 ---
 
+## Materjalid
+
+[Materjalide repositoorium](https://github.com/Javascript-ja-Git/Materjalid)
+
+---
+
 ## Ajakava (kontaktõpe)
 
 | Kuupäev    | Kell          | Ruum |
